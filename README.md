@@ -4,8 +4,8 @@
 
 <img src = 'https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif' alt = 'Boy with a error screen on his computer' align='right'/>
 
-[![Linkedin: luiz-castilho](https://img.shields.io/badge/-luizcastilho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-castilho/)](https://www.linkedin.com/in/luiz-castilho/)
-[![GitHub Luizu](https://img.shields.io/github/followers/luizu?style=social)](https://github.com/Luizu)
+[![Linkedin: felipe-lages](https://img.shields.io/badge/-luizcastilho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-castilho/)](https://www.linkedin.com/in/luiz-castilho/)
+[![GitHub Lipping](https://img.shields.io/github/followers/luizu?style=social)](https://github.com/Lipping)
 
 ## Current Works
  * I'm currently working at <a href="https://atw.delivery"> ATW Delivery Brands</a> as Junior Software Developer 
