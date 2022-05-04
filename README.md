@@ -4,21 +4,20 @@
 
 <img src = 'https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif' alt = 'Boy with a error screen on his computer' align='right'/>
 
-[![Linkedin: felipe-lages](https://img.shields.io/badge/-luizcastilho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-castilho/)](https://www.linkedin.com/in/luiz-castilho/)
-[![GitHub Lipping](https://img.shields.io/github/followers/luizu?style=social)](https://github.com/Lipping)
+[![Linkedin: felipe-lages](https://img.shields.io/badge/-felipe-lages-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-lages/)](https://www.linkedin.com/in/felipe-lages/)
+[![GitHub Lipping](https://img.shields.io/github/followers/Lipping?style=social)](https://github.com/Lipping)
 
 ## Current Works
- * I'm currently working at <a href="https://atw.delivery"> ATW Delivery Brands</a> as Junior Software Developer 
- * I'm studying Software Enginner at <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>
- * At work, old projects are wordpress and new ones are using NextJs as Frontend and NodeJs as Backend
+ * I'm currently working at <a href="https://atw.delivery"> ATW Delivery Brands</a> as User Interface Designer 
+ * I graduated from the Federal University of Espírito Santo as a graphic designer
 
 ## :computer: Technologies I Love
 * NextJs
 * React
 * NodeJs
-* Backend Development
+* Front-end Development
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luizu&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lipping&layout=compact">
 
 ## Technologies I Know
 <img src = 'https://github.com/luizu/luizu/blob/main/images/react.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/next.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/html.svg' width='30'/><img src = 'https://github.com/luizu/luizu/blob/main/images/css.svg' width='30'/><img src = 'https://github.com/luizu/luizu/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/ts.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/nodejs.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/styled.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/prisma.svg' width='30'/> <img src = 'https://github.com/luizu/luizu/blob/main/images/rn.svg' width='30'/> 
@@ -29,9 +28,9 @@
  ## Who am I?
  ```typescript
 const WhoAmI = {
-  name: 'Luiz Casstilho',
+  name: 'Felipe Lages',
   pronouns: "he/him",
-  currentJob: 'Junior Software Developer',
+  currentJob: 'User Interface Designer',
   currentCompany: 'ATW Delivery Brands',
   currentCity: 'Vitória/ES',
   hobbies: [
@@ -41,11 +40,11 @@ const WhoAmI = {
     'watching anime',
   ],
   interests: {
-    favoriteAnime: "Boku no Hero",
-    FavoriteFood: "Pizza",
-    favoriteOutdoorActivity: "Soccer",
-    favoriteGame: "Valorant",
-    favoriteBook: "Red, White & Royal Blue"
+    favoriteAnime: "Evangelion",
+    FavoriteFood: "Hamburger",
+    favoriteOutdoorActivity: "Swimming",
+    favoriteGame: "League of Legends",
+    favoriteMovie: "Interestelar"
   },
   coursesIMade: [
     {
