@@ -1,4 +1,6 @@
-## Olá, me chamo Felipe!
+## Mr. President, get down! Felipe is shotting his stats down below! 🤾
+
+# That's clos-!
 
 ## 📈 GitHub Stats
 
