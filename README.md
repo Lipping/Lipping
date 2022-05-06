@@ -1,4 +1,4 @@
-## Mr. President, get down! Felipe is shotting his stats down below! 
+## Mr. President, get down! Felipe is throwing his stats down below! 
 🤾🤾🤾🤾🤾🤾🤾🤾
 ### That's clos-!
 
