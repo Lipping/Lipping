@@ -1,5 +1,5 @@
 ## Website
-### [Click here](felipelages.vercel.app)
+### [Click here](https://felipelages.vercel.app)
 
 ## About me
 > Hello! My name is Felipe Lages Stefenoni, I graduated as a Graphic Designer at the Federal University of Espírito Santo. I’m passionate about the mix of design and technology. That’s why I decided to specialise in these areas.
